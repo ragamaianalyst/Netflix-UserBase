@@ -21,9 +21,9 @@ The project involves the following steps:
 
 ## Repository Structure
 
-- **data/**: Contains the cleaned dataset.
-- **sql/**: Includes SQL scripts used for data exploration.
-- **tableau/**: Contains Tableau workbooks and visualizations.
+- Contains the cleaned dataset.
+- Includes SQL scripts used for data exploration.
+- Contains Tableau workbooks and visualizations.
 
 ## Insights
 
